@@ -1,2 +1,2 @@
-# Challenge-5-fintech
+# Challenge-05-fintech
 this repo is for challenge 5
